@@ -1,4 +1,4 @@
 # FAQ ACCORDION CARD MAIN
 
-##INSTALL
+## INSTALL
 Open index.html
